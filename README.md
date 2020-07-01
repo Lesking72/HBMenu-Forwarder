@@ -9,6 +9,9 @@
     program_id_1=05A4999443B90000
     override_key_1=!LR
 
+ Automatic override is also possible with ReiNX by creating `sdmc:/ReiNX/config/override_config.ini`
+ and adding `[hbl_config]` followed by the above, or by copying the file from Atmosphère.
+ 
 # Why title override?
  In short, using title override means Atmosphère knows you're running the homebrew menu, and you always get the latest
  version of hbloader (sdmc:/atmosphere/hbl.nsp) without having to update the forwarder
