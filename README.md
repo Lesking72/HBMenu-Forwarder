@@ -12,6 +12,9 @@
  Automatic override is also possible with ReiNX by creating `sdmc:/ReiNX/config/override_config.ini`
  and adding `[hbl_config]` followed by the above, or by copying the file from Atmosphère.
  
+ If you use SX OS, override configs are not possible. There is a version which does not require title override,
+ but it will not get automatic feature or bugfix updates to hbl. Consider using Atmosphère :)
+ 
 # Why title override?
  In short, using title override means Atmosphère knows you're running the homebrew menu, and you always get the latest
  version of hbloader (sdmc:/atmosphere/hbl.nsp) without having to update the forwarder
