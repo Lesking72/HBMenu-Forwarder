@@ -1,5 +1,6 @@
 # HBMenu Forwarder
 ![Icon](img/hbmenu_icon.jpg)
+![ShrekMenu](img/shrekmenu_icon.jpg)
 ![Screenshot](img/stub_screenshot.jpg)
  This is a stub application, to make it launch hbmenu you have to configure Atmosphère to override 05A4999443B90000.
 
